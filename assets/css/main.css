@@ -3,6 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&family=Spicy+Rice&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Chicle&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Boogaloo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Inline+Text:wght@100..900&display=swap');
 /*
 	Solid State by HTML5 UP
 	html5up.net | @ajlkn
@@ -123,7 +124,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #ffffff;
-		font-family:  "Boogaloo", sans-serif;
+		font-family:  "Big Shoulders Inline Text", sans-serif;
 		font-size: 33pt;
 		font-weight: 300;
 		line-height: 1.65;
@@ -188,7 +189,7 @@ input, select, textarea {
 			text-decoration: none;
 			border-bottom: 0;
 			display: block;
-			font-family:  "Boogaloo", sans-serif;
+			font-family:  "Big Shoulders Inline Text", sans-serif;
 			font-size: 1.6em;
 			font-weight: 700;
 			letter-spacing: 0.1em;
@@ -251,7 +252,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #ffffff;
-		font-family:  "Boogaloo", sans-serif;
+		font-family:  "Big Shoulders Inline Text", sans-serif;
 		font-weight: 700;
 		letter-spacing: 0.1em;
 		margin: 0 0 1em 0;
@@ -282,7 +283,7 @@ input, select, textarea {
 	}
 
 	h4 {
-		font-size: 2em;
+		font-size: 4em;
 	}
 
 	h5 {
@@ -2166,7 +2167,7 @@ input, select, textarea {
 	label {
 		color: #ffffff;
 		display: block;
-		font-family:  "Boogaloo", sans-serif;
+		font-family:  "Big Shoulders Inline Text", sans-serif;
 		font-size: 2em;
 		font-weight: 700;
 		letter-spacing: 0.1em;
@@ -2269,7 +2270,7 @@ input, select, textarea {
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
-			font-family:  "Boogaloo", sans-serif;
+			font-family:  "Big Shoulders Inline Text", sans-serif;
 			text-transform: none;
 			letter-spacing: 0;
 			font-weight: 300;
@@ -2869,7 +2870,7 @@ input, select, textarea {
 		color: #ffffff !important;
 		cursor: pointer;
 		display: inline-block;
-		font-family:  "Boogaloo", sans-serif;
+		font-family:  "Big Shoulders Inline Text", sans-serif;
 		font-size: 0.8em;
 		font-weight: 700;
 		height: 3.75em;
@@ -3103,7 +3104,7 @@ input, select, textarea {
 			}
 
 		#header nav {
-			font-family:  "Boogaloo", sans-serif;
+			font-family:  "Big Shoulders Inline Text", sans-serif;
 			font-size: 1.6em;
 			font-weight: 700;
 			height: 3em;
@@ -3326,7 +3327,7 @@ input, select, textarea {
 					border-radius: 5px;
 					border: 0;
 					display: block;
-					font-family:  "Boogaloo", sans-serif;
+					font-family:  "Big Shoulders Inline Text", sans-serif;
 					font-size: 1.5em;
 					font-weight: 200;
 					letter-spacing: 0.1em;
@@ -3453,7 +3454,7 @@ input, select, textarea {
 			-ms-filter: blur(0);
 			filter: blur(0);
 			opacity: 1;
-			font-family:  "Boogaloo", sans-serif;
+			font-family:  "Big Shoulders Inline Text", sans-serif;
 			font-size: 4em;
 			font-weight: 200;
 			letter-spacing: 0.1em;
@@ -3563,7 +3564,7 @@ input, select, textarea {
 		}
 
 		#wrapper > header p {
-			font-family:  "Boogaloo", sans-serif;
+			font-family:  "Big Shoulders Inline Text", sans-serif;
 			font-size: 4em;
 			font-weight: 200;
 			letter-spacing: 0.1em;
@@ -3680,35 +3681,35 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #353849;
+			background-color: #62B535;
 		}
 
 			.wrapper.style2:before, .wrapper.style2:after {
-				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%B34088%3B' /%3E%3C/svg%3E");
+				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%2362B535%3B' /%3E%3C/svg%3E");
 			}
 
 			.wrapper.style2:before {
-				box-shadow: inset 0 -1px 0 0 #B34088, 0 1px 0 0 #B34088;
+				box-shadow: inset 0 -1px 0 0 #62B535, 0 1px 0 0 #62B535;
 			}
 
 			.wrapper.style2:after {
-				box-shadow: inset 0 -1px 0 0 #B34088, 0 1px 0 0 #B34088;
+				box-shadow: inset 0 -1px 0 0 #62B535, 0 1px 0 0 #62B535;
 			}
 
 		.wrapper.style3 {
-			background-color: #3d4051;
+			background-color: #98E46B;
 		}
 
 			.wrapper.style3:before, .wrapper.style3:after {
-				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%233d4051%3B' /%3E%3C/svg%3E");
+				background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%2398E46B%3B' /%3E%3C/svg%3E");
 			}
 
 			.wrapper.style3:before {
-				box-shadow: inset 0 -1px 0 0 #3d4051, 0 1px 0 0 #3d4051;
+				box-shadow: inset 0 -1px 0 0 #98E46B, 0 1px 0 0 #98E46B;
 			}
 
 			.wrapper.style3:after {
-				box-shadow: inset 0 -1px 0 0 #3d4051, 0 1px 0 0 #3d4051;
+				box-shadow: inset 0 -1px 0 0 #98E46B, 0 1px 0 0 #98E46B;
 			}
 
 		.wrapper.style4 {
@@ -3853,19 +3854,19 @@ input, select, textarea {
 				}
 
 			.wrapper.spotlight.style4 {
-				background-color: #E585A8;
+				background-color: #E45C36;
 			}
 
 				.wrapper.spotlight.style4:before, .wrapper.spotlight.style4:after {
-					background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%23E585A8%3B' /%3E%3C/svg%3E");
+					background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%23E45C36%3B' /%3E%3C/svg%3E");
 				}
 
 				.wrapper.spotlight.style4:before {
-					box-shadow: inset 0 -1px 0 0 #E585A8, 0 1px 0 0 #E585A8;
+					box-shadow: inset 0 -1px 0 0 #E45C36, 0 1px 0 0 #E45C36;
 				}
 
 				.wrapper.spotlight.style4:after {
-					box-shadow: inset 0 -1px 0 0 #E585A8, 0 1px 0 0 #E585A8;
+					box-shadow: inset 0 -1px 0 0 #E45C36, 0 1px 0 0 #E45C36;
 				}
 
 			.wrapper.spotlight.style5 {
